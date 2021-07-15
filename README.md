@@ -111,6 +111,10 @@
 
 
 
+## 公众号
+
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gshj1k4ycoj31eg0hcwhm.jpg)
+
 
 
 如果有想要来字节的，可以把简历发到邮箱`detectivehlh@qq.com` ，也可以直接加我wx
