@@ -12,6 +12,9 @@
 </p>
 
 
+[![LeonSH's github stats](https://github-readme-stats.vercel.app/api?username=detectiveHLH&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0)](https://github.com/detectiveHLH/sh-blog)
+
+
 
 ## 目录
 
@@ -87,6 +90,8 @@
   - [【简单了解系列】从基础的使用来深挖HashMap](https://mp.weixin.qq.com/s/-ZE8eA-2CFYsgwRbwjEVnw)
 - ConcurrentHashMap
   - [深入了解ConcurrentHashMap](https://mp.weixin.qq.com/s/3GgGqsMYuYmLV3ZvwFYuyg)
+- ArrayList
+  - [ArrayList 从源码角度剖析底层原理](https://mp.weixin.qq.com/s/dSKBBch-OdX2pNf5BUF89A)
 
 
 
