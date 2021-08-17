@@ -36,6 +36,12 @@
   - [深入了解 InnoDB 表空间](https://mp.weixin.qq.com/s/KVH---8XrkX-6_liVux2Xg)
 - 崩溃恢复
   - [基于 Redo Log 和 Undo Log 的 MySQL 崩溃回复流程](https://mp.weixin.qq.com/s/sDhgznRSA5wWduvG156mBw)
+- 删除数据
+  - [MySQL 中删除的数据都去哪儿了？](https://mp.weixin.qq.com/s/DhscpicoyJM9dVaGYuI3Wg)
+- 事务隔离级别
+  - [啥是 MySQL 事务隔离级别？](https://mp.weixin.qq.com/s/G-QFSNUol6vHS34v_TKvkQ)
+- MVCC
+  - [MySQL 到底是如何做到多版本并发的？](https://mp.weixin.qq.com/s/jBuA_BYvfu0xVNh5wgxwNA)
 
 
 
