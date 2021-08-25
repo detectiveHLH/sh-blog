@@ -20,6 +20,12 @@
 
 ### MySQL
 
+- 总览
+
+  - [MySQL 不完全入门](https://mp.weixin.qq.com/s/IOXbXeoTruQpfsivJjzbKQ)
+
+    
+
 - 主从
   - [深入了解 MySQL 主从复制底层原理](https://mp.weixin.qq.com/s/xejfrjc1CO0r8uBT-_vpag)
 - 索引
@@ -114,11 +120,20 @@
 
 
 
+### 编码
+
+- Base64
+  - [Base64原理](https://blog.51cto.com/leonsh/3625392)
+
+
+
 ### 算法
 
 - 排序算法
   - [你知道和你不知道的选择排序](https://mp.weixin.qq.com/s/hXWuLSobtRwsWviwffyDmw)
   - [你知道和你不知道的冒泡排序](https://mp.weixin.qq.com/s/RWORg0xuM76cYqgVDe1UOQ)
+
+
 
 
 
