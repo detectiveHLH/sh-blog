@@ -76,6 +76,9 @@
 
 - Producer
   - [RocketMQ基础概念剖析，并分析一下Producer的底层源码](https://mp.weixin.qq.com/s/tTlLsHpdAiRnlnzrnCusAw)
+- Consumer
+  - [RocketMQ Consumer 启动时都干了些啥？](https://mp.weixin.qq.com/s/O1uCGg48UqFhk_SI5JwDzg)
+  
 - Broker
   - [从RocketMQ的Broker源码层面验证一下这两个点](https://mp.weixin.qq.com/s/S2BXGEYbws2CXIfY5vbRug)
   - [RocketMQ基础概念剖析&源码解析](https://mp.weixin.qq.com/s/6pBlK_h0PEHfFXjXFgqMDQ)
