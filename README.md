@@ -149,7 +149,15 @@
 
 ### 计算机网络
 
+#### 协议栈
+
 - [请求数据包从发送到接收，都经历什么？](https://mp.weixin.qq.com/s/JYPhwwuBPPHH8GgJtoCyug)
+
+
+
+#### DNS
+
+- [你的域名是如何变成 IP 地址的？](https://mp.weixin.qq.com/s/fhyUZpMjHPhIg-z1exaBFQ)
 
 
 
